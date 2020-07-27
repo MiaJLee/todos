@@ -76,10 +76,21 @@ input:focus {
 	text-decoration: line-through;
 }
 
-.fa-plus {
+.fa-plus{
 	float: right;
 }
 
 .rotated {
   transform: rotate(45deg);
+}
+
+.fa-trash {
+	margin-left: 48%;
+	margin-top: 20px;
+	color: white;
+	padding: 20px;
+}
+
+.fa-trash:hover {
+	color: black;
 }
